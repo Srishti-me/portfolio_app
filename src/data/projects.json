@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Hostel Management System",
+    "imageSrc": "projects/draw.jpg",
+    "description": "Efficient hostel management system built using Bootstrap, MySQL, and Node.js for seamless operations, organization, and streamlined administration processes.",
+    "skills": ["Nodejs", "Express", "Bootstrap","MySQL"],
+    "source": "https://github.com/Srishti-me/Hostel-management-frontend",
+    "demo" : "https://srishti-me.github.io/Hostel-management-frontend/index.html"
+    
+  },
+  {
+    "title": "Weather forecast application",
+    "imageSrc": "projects/sea.jpg",
+    "description": "Dynamic weather app, leveraging HTML, CSS, and API integration, delivering real-time forecasts and intuitive user experience and suggestion",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "source": "https://github.com/Srishti-me/WeatherAPP",
+    "demo" : "https://srishti-me.github.io/WeatherAPP/"
+  },
+  {
+    "title": "UI Designs",
+    "imageSrc": "projects/UI.png",
+    "description": "Crafted stunning designs with Figma, marrying creativity with functionality for seamless user experiences and visually captivating interfaces",
+    "skills": ["FIGMA", "UI/UX"],
+    "source": "https://www.figma.com/design/nwz0bR0rgPUmryNztzvWFf/Designs?node-id=35-173&t=I6pKy9CZDcE3HCtP-1",
+    "demo" : false
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Student",
+    "organisation": "UPES",
+    "startDate": "2022",
+    "endDate": "2026",
+    "experiences": ["Currently in 3rd year", "Specializing in Data Science"],
+    "imageSrc": "history/Graduate.png"
+  },
+  {
+    "role": "UI Designer",
+    "organisation": "",
+    "startDate": "2023",
+    "endDate":"present",
+    "experiences": ["Designed user flow", "Designed one page websites"],
+    "imageSrc": "history/UI.png"
+  },
+  {
+    "role": "Web developer",
+    "organisation": "",
+    "startDate": "2023",
+    "endDate": "present",
+    "experiences": [
+      "Worked on Hostel management system",
+      "Weather App"
+    ],
+    "imageSrc": "history/girl.png"
+  }
+]
